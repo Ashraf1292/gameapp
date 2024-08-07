@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/OCR A Extended Regular/OCR A Extended Regular.ttf",
+      "sha1": "ba06d81504a4d769dcd4dd9282443d7946fe3fda"
+    },
+    {
+      "path": "assets/fonts/OCR A Extended Regular/readme.html",
+      "sha1": "bf2e9661d5750f7d1f1db4bae5603064cb866007"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "4bcba36d0f627832084931c42325d63289a1c030"
+    },
+    {
+      "path": "assets/fonts/ShareTechMono-Regular.ttf",
+      "sha1": "dd900c3c462c68eea82a0ab5d34d9292a8a797d3"
+    },
+    {
+      "path": "assets/fonts/Share_Tech_Mono.zip",
+      "sha1": "27d69caccc879655abd9fd8ab38d46352adfec74"
+    }
+  ]
+}
